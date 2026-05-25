@@ -1,0 +1,6 @@
+instances_per_k=20
+repeats_per_instance=3
+budget_ms=300
+base_seed=20260524
+k_values=16,24,32,40,48,64
+outputs=csv/summary.csv,csv/per_instance_results.csv,csv/ablation_results.csv,figures/,latex_tables/
